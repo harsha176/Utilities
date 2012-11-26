@@ -8,8 +8,7 @@ public class LoggerTest {
 	@Test
 	public void test() {
 		Logger logger = Logger.getLogger(getClass());
-		//test commit
-		logger.info("Trooper");
+		logger.info("Troopee]]]"); // Changed by hacker
 	}
 
 }
