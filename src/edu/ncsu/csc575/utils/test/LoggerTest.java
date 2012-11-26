@@ -9,6 +9,7 @@ public class LoggerTest {
 	public void test() {
 		Logger logger = Logger.getLogger(getClass());
 		logger.info("Troopee]]]"); // Changed by hacker
+		logger.info("Dance of death");
 	}
 
 }
