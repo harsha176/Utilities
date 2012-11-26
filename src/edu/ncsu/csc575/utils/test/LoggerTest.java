@@ -8,7 +8,7 @@ public class LoggerTest {
 	@Test
 	public void test() {
 		Logger logger = Logger.getLogger(getClass());
-		logger.info("Trooper");
+		logger.info("Troopee]]]"); // Changed by hacker
 	}
 
 }
